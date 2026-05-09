@@ -1,0 +1,5 @@
+{
+  "name": "ssot-prompt-engineer",
+  "version": "2.0.0",
+  "description": "SSOT 规则提取器：从成品文档中反向提取生成规则（结构、写作模式、模板分类），输出标准化的 Skill Blueprint 供 skill-creator 消费。用于逆向工程 SOP、提取文档规范、为 skill 制作提供标准化上游输入。"
+}

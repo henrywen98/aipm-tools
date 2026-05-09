@@ -1,0 +1,5 @@
+{
+  "name": "grill-me-only",
+  "version": "0.1.0",
+  "description": "Relentless decision-tree interview skill. Walks every branch of the design space, asking one focused question at a time with a recommended answer, resolving dependencies between decisions before moving on. Only grills — does not draft, code, or implement. Outputs a Decision Record at the end."
+}
