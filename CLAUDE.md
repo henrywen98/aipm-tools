@@ -1,6 +1,6 @@
 # AIPM Tools Marketplace
 
-> Version: v0.17.0 (2026-05-09)
+> Version: v0.18.0 (2026-06-04)
 
 Personal Claude Code plugin marketplace (`henrywen98/aipm-tools`).
 
@@ -64,7 +64,7 @@ Auto-discovery only scans this pattern. Do NOT use flat files like `skills/<name
 
 | Category | Plugins |
 |----------|---------|
-| Document Processing | concept-design |
+| Document Processing | concept-design, fair-copy, read-digest |
 | Requirements & Workflow | ai-pm-feedback-collector, purvar-prd, req-to-issues |
 | Testing | test-case-generator, comprehensive-test-generation |
 | Efficiency | meeting-prep, weekly-report |
