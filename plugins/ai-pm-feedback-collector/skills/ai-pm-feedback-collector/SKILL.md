@@ -24,7 +24,7 @@ description: >-
 ```
 
 **是什么**：碎片 → 结构化洞察的整理器
-**不是什么**：不生成 Issue（用 `/req-to-issues`），不写 PRD（用 `purvar-prd` 或 `create-prd`）
+**不是什么**：不生成 Issue（用 `/req-to-issues`），不写 PRD（用 `create-prd`）
 
 ## 为什么需要分离问题和方案
 
@@ -161,7 +161,7 @@ Opportunity Score = 重要性 × (1 - 满意度)
 | 高优先级 Bug / 明确需求 | 直接拆解为 Issue | `/req-to-issues` |
 | 需要深入了解的 Opportunity | 设计用户访谈 | pm-skills `interview-script` |
 | 需要量化验证的假设 | 设计实验方案 | pm-skills `brainstorm-experiments` |
-| 多个洞察指向同一方向 | 整合为产品需求文档 | `purvar-prd` 或 pm-skills `create-prd` |
+| 多个洞察指向同一方向 | 整合为产品需求文档 | pm-skills `create-prd` |
 | 需要了解竞品做法 | 竞品分析 | pm-skills `competitor-analysis` |
 | 需要确定优先级策略 | 特性优先级排序 | pm-skills `prioritize-features` |
 

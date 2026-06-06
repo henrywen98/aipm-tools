@@ -18,7 +18,7 @@ description: >-
   "一项一项问我", "拷问我", "盘问我".
 
   Hard scope: ONLY grills. Does not draft documents, write code, generate
-  PRDs, or implement anything. For drafting: use purvar-prd / write-prd /
+  PRDs, or implement anything. For drafting: use write-prd /
   ssot-prompt-engineer. For reviewing an existing plan: use plan-reflection.
   For planning a sprint: use sprint-plan.
 ---
@@ -166,7 +166,7 @@ A short bulleted list of what these decisions imply (e.g., "API needs pagination
 (Only include if any.) — Any contradictions the user chose to live with, with a one-line note on why.
 ```
 
-After producing the Decision Record, stop. Do **not** offer to draft a PRD, write code, or start implementing. If the user wants that, point them at the appropriate skill (e.g., `purvar-prd`, `write-prd`, `sprint-plan`, `plan-reflection`).
+After producing the Decision Record, stop. Do **not** offer to draft a PRD, write code, or start implementing. If the user wants that, point them at the appropriate skill (e.g., `write-prd`, `sprint-plan`, `plan-reflection`).
 
 ## Hard Boundaries
 

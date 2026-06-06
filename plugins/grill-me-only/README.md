@@ -66,7 +66,7 @@ Phase 4  输出 Decision Record（决策 + 推迟项 + 隐含影响 + 冲突）
 
 | 想要的 | 用这个 skill |
 |--------|--------------|
-| 写 PRD | `purvar-prd` / `write-prd` / `create-prd` |
+| 写 PRD | `write-prd` / `create-prd` |
 | 从样本反推规则 | `ssot-prompt-engineer` |
 | 审已有计划 | `plan-reflection` |
 | 拆 sprint | `sprint-plan` / `sprint` |

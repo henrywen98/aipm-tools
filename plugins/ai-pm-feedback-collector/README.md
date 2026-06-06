@@ -10,7 +10,7 @@
 碎片信息（本工具）→ 结构化洞察 → PRD / 用户故事 / Issue 拆解
 ```
 
-不生成 Issue（用 `/req-to-issues`），不写 PRD（用 `purvar-prd`）。
+不生成 Issue（用 `/req-to-issues`），不写 PRD（用 `create-prd`）。
 
 ## 核心能力
 

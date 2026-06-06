@@ -1,6 +1,6 @@
 # AIPM Tools Marketplace
 
-> Version: v0.18.0 (2026-06-04)
+> Version: v0.19.0 (2026-06-06)
 
 Personal Claude Code plugin marketplace (`henrywen98/aipm-tools`).
 
@@ -62,15 +62,19 @@ Auto-discovery only scans this pattern. Do NOT use flat files like `skills/<name
 
 ## Plugin Categories
 
-| Category | Plugins |
-|----------|---------|
-| Document Processing | concept-design, fair-copy, read-digest |
-| Requirements & Workflow | ai-pm-feedback-collector, purvar-prd, req-to-issues |
-| Testing | test-case-generator, comprehensive-test-generation |
-| Efficiency | meeting-prep, weekly-report |
-| Visualization | drawio-diagram |
-| Dev Tools | ssot-prompt-engineer, plan-reflection, docker-dev, cicd-dev, vue-form-to-json, code-to-prd, grill-me-only |
-| HR | interviewer-assistant |
+Categories are recorded as the `category` field on each plugin in `.claude-plugin/marketplace.json` (English keys; SSOT). Root `README.md` section titles mirror these keys 1:1. 17 plugins / 7 categories:
+
+| Category (key) | README 中文标题 | Plugins |
+|----------------|-----------------|---------|
+| Requirements & Workflow | 需求与文档工作流 | ai-pm-feedback-collector, code-to-prd, req-to-issues, doc-feature-extractor |
+| Document Processing | 写作与文稿处理 | read-digest, fair-copy |
+| Efficiency | 效率工具 | meeting-prep, weekly-report |
+| Visualization | 可视化 | drawio-diagram |
+| Dev Tools | 开发工具 | ssot-prompt-engineer, plan-reflection, docker-dev, cicd-dev, vue-form-to-json, grill-me-only |
+| HR | 招聘与 HR | interviewer-assistant |
+| Infra | 部署运维 | vpn-deploy |
+
+When adding a plugin, set its `category` to one of these keys (or introduce a new one consistently across marketplace.json + README + this table).
 
 ## Versioning
 
