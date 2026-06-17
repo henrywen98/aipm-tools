@@ -1,6 +1,6 @@
 # AIPM Tools Marketplace
 
-> Version: v0.19.0 (2026-06-06)
+> Version: v0.20.0 (2026-06-17)
 
 Personal Claude Code plugin marketplace (`henrywen98/aipm-tools`).
 
@@ -62,12 +62,12 @@ Auto-discovery only scans this pattern. Do NOT use flat files like `skills/<name
 
 ## Plugin Categories
 
-Categories are recorded as the `category` field on each plugin in `.claude-plugin/marketplace.json` (English keys; SSOT). Root `README.md` section titles mirror these keys 1:1. 16 plugins / 7 categories:
+Categories are recorded as the `category` field on each plugin in `.claude-plugin/marketplace.json` (English keys; SSOT). Root `README.md` section titles mirror these keys 1:1. 17 plugins / 7 categories:
 
 | Category (key) | README 中文标题 | Plugins |
 |----------------|-----------------|---------|
 | Requirements & Workflow | 需求与文档工作流 | ai-pm-feedback-collector, code-to-prd, doc-feature-extractor |
-| Document Processing | 写作与文稿处理 | read-digest, fair-copy |
+| Document Processing | 写作与文稿处理 | read-digest, fair-copy, humanizer |
 | Efficiency | 效率工具 | meeting-prep, weekly-report |
 | Visualization | 可视化 | drawio-diagram |
 | Dev Tools | 开发工具 | ssot-prompt-engineer, plan-reflection, docker-dev, cicd-dev, vue-form-to-json, grill-me-only |
