@@ -1,5 +1,5 @@
 {
   "name": "humanizer",
-  "version": "1.0.0",
-  "description": "去 AI 味（降 AIGC 率）：把一眼就是机器写的文本改回人写的。中文为主——套话开场 / 空洞收尾 / 互联网黑话 / 全角破折号滥用 / 不仅…而且 / 强行排比 等中文 AI 味，附英文写作专有 tell。区别于 fair-copy（去自己改稿的过程痕迹）。pattern 体系译改自 blader/humanizer (MIT) 与 Wikipedia「Signs of AI writing」"
+  "version": "2.0.0",
+  "description": "把 AI 写的、一读就不像人写的文字，改成真人为特定读者写的、一读就懂的稿。三层一起清——① 机器发声：去 AI 味 + 去翻译腔（拔高升华 / 三段排比 / 互联网黑话 / 全角破折号滥用 / 空洞收尾 / 名词化'进行了优化' / 长句从句嵌套 / 滥用被动 / 一句三个'的' / 值得注意的是·总而言之 这类套话词）；② 读者读不懂：行话换白话、抽象词说清指谁、术语前后统一、内部编号自解释、错别字改掉；③ 过程噪音：修订史 / 版本说明 / (待确认)(TODO) / 旁批 / 备选写法。判准是冷读测试。中文为主，附英文专有 tell。v2.0 并入原 fair-copy。区别于 read-digest（input 侧读懂别人的稿）。pattern 体系译改自 blader/humanizer (MIT) 与 Wikipedia「Signs of AI writing」"
 }

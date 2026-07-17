@@ -67,7 +67,7 @@ Categories are recorded as the `category` field on each plugin in `.claude-plugi
 | Category (key) | README 中文标题 | Plugins |
 |----------------|-----------------|---------|
 | Requirements & Workflow | 需求与文档工作流 | ai-pm-feedback-collector, code-to-prd, doc-feature-extractor |
-| Document Processing | 写作与文稿处理 | read-digest, fair-copy, humanizer |
+| Document Processing | 写作与文稿处理 | read-digest, humanizer（fair-copy 已并入 humanizer，仅保留作重定向） |
 | Efficiency | 效率工具 | meeting-prep, weekly-report |
 | Visualization | 可视化 | drawio-diagram |
 | Dev Tools | 开发工具 | ssot-prompt-engineer, plan-reflection, docker-dev, cicd-dev, vue-form-to-json, grill-me-only |

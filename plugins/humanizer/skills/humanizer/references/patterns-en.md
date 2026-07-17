@@ -81,7 +81,7 @@ actually, additionally, align with, crucial, delve, emphasizing, enduring, enhan
 27. **Persuasive authority tropes** — "The real question is", "at its core", "what really matters", "fundamentally". State the ordinary point plainly.
 28. **Signposting / announcements** — "Let's dive in", "here's what you need to know". Just say the thing.
 29. **Fragmented headers** — a heading followed by a one-line restatement before real content. Delete the warm-up line.
-30. **Diff-anchored writing** — narrating a change ("This was added to replace...") instead of describing the thing as it is. ⚠️ 这条和 `fair-copy` 的「过程性指向措辞」重叠：在 humanizer 里只把它当文风 tell；要系统清「自己改稿留下的过程痕迹」，用 fair-copy。 *Before:* "This function was added to replace the previous O(n²) approach." *After:* "This function uses a hash map for O(1) lookups."
+30. **Diff-anchored writing** — narrating a change ("This was added to replace...") instead of describing the thing as it is. 提示：这里只把它当文风 tell 顺手改掉；要**系统地**清「自己改稿留下的过程痕迹」（修订史 / 版本说明 / 行内批注 / 备选写法），走 SKILL.md 的**层三 · 过程噪音**。 *Before:* "This function was added to replace the previous O(n²) approach." *After:* "This function uses a hash map for O(1) lookups."
 31. **Manufactured punchlines / staccato drama** — every sentence a quotable closer; runs of short fragments. One short sentence is fine; a run sounds engineered.
 32. **Aphorism formulas** — "X is the Y of Z", "X becomes a trap", "the language of", "the architecture of". Replace with the concrete claim.
 33. **Conversational rhetorical openers** — "Honestly?", "Look,", "Here's the thing", as standalone fake-candid hooks. Just say the thing.
